@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "18yldCYqRLFEBdi01OJX82MOZx4FUUIB5v6SclW4rW5eqwRXKPiOhSo8IkbCN45qe/DpCdlw1To4pYfZ1IC6vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sarah\\Documents\\c# project\\Dal\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarah\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

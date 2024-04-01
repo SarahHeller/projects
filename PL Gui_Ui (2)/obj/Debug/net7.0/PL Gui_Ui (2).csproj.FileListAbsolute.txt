@@ -1,0 +1,80 @@
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\appsettings.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).exe
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).deps.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).runtimeconfig.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).csproj.AssemblyReference.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).AssemblyInfoInputs.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).AssemblyInfo.cs
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).csproj.CoreCompileInputs.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets\msbuild.PL Gui_Ui (2).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets\msbuild.build.PL Gui_Ui (2).props
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PL Gui_Ui (2).props
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PL Gui_Ui (2).props
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\scopedcss\bundle\PL Gui_Ui (2).styles.css
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).csproj.CopyComplete
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\refint\PL Gui_Ui (2).dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).genruntimeconfig.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\ref\PL Gui_Ui (2).dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\BLL.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Dal.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Enteties_Dto.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\BLL.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Enteties_Dto.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Dal.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\appsettings.json
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).exe
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).deps.json
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).runtimeconfig.json
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\PL Gui_Ui (2).pdb
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\BLL.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Dal.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Enteties_Dto.dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\BLL.pdb
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Enteties_Dto.pdb
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\bin\Debug\net7.0\Dal.pdb
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).csproj.AssemblyReference.cache
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).AssemblyInfoInputs.cache
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).AssemblyInfo.cs
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).csproj.CoreCompileInputs.cache
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets\msbuild.PL Gui_Ui (2).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets\msbuild.build.PL Gui_Ui (2).props
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PL Gui_Ui (2).props
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PL Gui_Ui (2).props
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\scopedcss\bundle\PL Gui_Ui (2).styles.css
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).csproj.CopyComplete
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\refint\PL Gui_Ui (2).dll
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).pdb
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\PL Gui_Ui (2).genruntimeconfig.cache
+C:\Users\sarah\Documents\c# project\Dal\PL Gui_Ui (2)\obj\Debug\net7.0\ref\PL Gui_Ui (2).dll

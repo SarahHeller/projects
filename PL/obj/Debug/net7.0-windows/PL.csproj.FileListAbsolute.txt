@@ -1,0 +1,50 @@
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\PL.exe
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\PL.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\BLL.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\Dal.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.csproj.AssemblyReference.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.Form1.resources
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.csproj.GenerateResource.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.AssemblyInfoInputs.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.AssemblyInfo.cs
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\PL.deps.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\PL.runtimeconfig.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\PL.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\BLL.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\Dal.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.csproj.CopyComplete
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\refint\PL.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\PL.genruntimeconfig.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\obj\Debug\net7.0-windows\ref\PL.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\Enteties_Dto.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\Enteties_Dto.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\PL\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\PL.exe
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\PL.deps.json
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\PL.runtimeconfig.json
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\PL.dll
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\PL.pdb
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\BLL.dll
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\Dal.dll
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\Enteties_Dto.dll
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\BLL.pdb
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\Enteties_Dto.pdb
+C:\Users\sarah\Documents\c# project\Dal\PL\bin\Debug\net7.0-windows\Dal.pdb
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.csproj.AssemblyReference.cache
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.Form1.resources
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.csproj.GenerateResource.cache
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.AssemblyInfoInputs.cache
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.AssemblyInfo.cs
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.csproj.CopyComplete
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.dll
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\refint\PL.dll
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.pdb
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\PL.genruntimeconfig.cache
+C:\Users\sarah\Documents\c# project\Dal\PL\obj\Debug\net7.0-windows\ref\PL.dll

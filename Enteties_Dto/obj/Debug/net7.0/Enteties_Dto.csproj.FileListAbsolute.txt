@@ -1,0 +1,24 @@
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\bin\Debug\net7.0\Enteties_Dto.deps.json
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\bin\Debug\net7.0\Enteties_Dto.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\bin\Debug\net7.0\Enteties_Dto.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.csproj.AssemblyReference.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.AssemblyInfoInputs.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.AssemblyInfo.cs
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\refint\Enteties_Dto.dll
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.pdb
+C:\Users\sarah\Documents\C#\Lesson5_project\Dal\Enteties_Dto\obj\Debug\net7.0\ref\Enteties_Dto.dll
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\bin\Debug\net7.0\Enteties_Dto.deps.json
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\bin\Debug\net7.0\Enteties_Dto.dll
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\bin\Debug\net7.0\Enteties_Dto.pdb
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.csproj.AssemblyReference.cache
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.AssemblyInfoInputs.cache
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.AssemblyInfo.cs
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.dll
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\refint\Enteties_Dto.dll
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\Enteties_Dto.pdb
+C:\Users\sarah\Documents\c# project\Dal\Enteties_Dto\obj\Debug\net7.0\ref\Enteties_Dto.dll
